@@ -1,24 +1,22 @@
 - title: Curriculum Vitae
   subtitle: short version
-  img: /img/cv/small_stack.png
+  img: /papers/cv-one-page.pdf
   thumbnail: /img/cv/small_stack.png
   alt: image-alt
-  description: This is my very long cv. You can download it here. 
+  description: This is my very short cv. You can download it here. 
 
 - title: Curriculum Vitae
   subtitle: medium version
   date: 2014-07-15
-  img: /img/cv/med_stack.png
+  img: /papers/cv-two-page.pdf
   thumbnail: /img/cv/med_stack.png
   alt: image-alt
-  project-date: April 2014
   description: This is my medium long cv. You can download it here. 
 
 - title: Curriculum Vitae
   subtitle: long version
-  img: http://katyhuff.github.io/papers/cv.pdf
+  img: /papers/cv.pdf
   thumbnail: /img/cv/large_stack.png
   alt: image-alt
-  project-date: April 2014
   description: This is my very long cv. You can download it here. 
 

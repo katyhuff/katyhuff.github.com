@@ -37,7 +37,7 @@ scholar:
   replace_strings: true
   join_strings:    true
 
-  use_raw_bibtex_entry: false
+  use_raw_bibtex_entry: true
 
   details_dir:    bibliography
   details_layout: bibtex.html
