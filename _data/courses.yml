@@ -4,13 +4,13 @@
   institution: University of Illinois at Urbana-Champaign
   semester: Spring
   year: 2018
-  days: TR
-  time: 9:00am-11:00am
-  location: TBD
+  days: MW
+  time: 1:00pm-3:00pm
+  location: Talbot 103
   pic: "/img/teaching/bell_glasstone.jpg"
   helpers: 
-   - name: TBD
-     email: TBD
+   - name: 
+     email:
   url: "https://github.com/katyhuff/npre555"
   description: "Advanced development of neutron transport theory; neutron slowing-down and resonance absorption; approximations to the transport equation; direct numerical methods and other techniques of approximation theory applied to the neutron transport equation; advanced topics. Prerequisite: NPRE 455 (waived for Physics majors)."
 
