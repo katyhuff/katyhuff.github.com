@@ -37,6 +37,6 @@ task :publish => [:generate] do
 
     Dir.chdir pwd
     system "git checkout source"
-    system "git push upstream source"
+    #system "git push upstream source"
   end
 end
